@@ -1,0 +1,23 @@
+{
+  "name": "a02-eafowler",
+  "version": "1.0.0",
+  "description": "CSS Bulma Framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-eafowler.git"
+  },
+  "author": "Edward Fowler",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-eafowler/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-eafowler#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
